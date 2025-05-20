@@ -9,7 +9,7 @@ To send messages to your WhatsApp account with the ESP32, we’ll use a free API
 2. Send this message "I allow callmebot to send me messages" to the new Contact created (using WhatsApp of course)
 3. Wait until you receive the message "API Activated for your phone number. Your APIKEY is 123123" from the bot.
 Note: If you don't receive the ApiKey in 2 minutes, please try again after 24hs.
-The WhatsApp message from the bot will contain the apikey needed to send messages using the API.
+4. The WhatsApp message from the bot will contain the apikey needed to send messages using the API.
 
 ## How to Use Example
 
