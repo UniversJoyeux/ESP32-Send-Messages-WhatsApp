@@ -14,6 +14,7 @@ Note: If you don't receive the ApiKey in 2 minutes, please try again after 24hs.
 ## How to Use Example
 
 * How to install the Arduino IDE: [Install Arduino IDE](https://github.com/espressif/arduino-esp32/tree/master/docs/arduino-ide).
+* 
 
 #### Using Arduino IDE
 
