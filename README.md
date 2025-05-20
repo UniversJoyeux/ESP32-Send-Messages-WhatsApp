@@ -1,12 +1,10 @@
 # ESP32-Send-Messages-WhatsApp
-This example demonstrates how to use the WiFi library to scan available WiFi networks and print the results.
+This example demonstrates how to send messages to WhatsApp using ESP32 along with Arduino IDE. For this to work we should install WhatsApp and Arduino IDE, and acquire ESP32 microcontroller.
 
-## Supported Targets
+## Steps for Getting the CallMeBot API KEY
+To send messages to your WhatsApp account with the ESP32, we’ll use a free API service called CallMeBot service.
 
-Currently this example supports the following targets.
 
-| Supported Targets | ESP32 | ESP32-S2 | ESP32-C3 | ESP32-S3 | ESP32-C6 |
-| ----------------- | ----- | -------- | -------- | -------- | -------- |
 
 ## How to Use Example
 
