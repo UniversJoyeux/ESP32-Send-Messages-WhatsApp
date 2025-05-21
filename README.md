@@ -11,6 +11,7 @@ To send messages to your WhatsApp account with the ESP32, we’ll use a free API
 Note: If you don't receive the ApiKey in 2 minutes, please try again after 24hs.
 4. The WhatsApp message from the bot will contain the apikey needed to send messages using the API.
 * ESP32 Code: Copy this code below and paste it into Arduino IDE.
+  ```
   /* 
   Rui Santos
   Complete project details at https://RandomNerdTutorials.com/esp32-send-messages-whatsapp/
@@ -76,7 +77,7 @@ void setup() {
   // Send Message to WhatsAPP
   sendMessage("Hello from ESP32!");
 }
-
+```
 ## How to Use Example
 
 * How to install the Arduino IDE: [Install Arduino IDE](https://github.com/espressif/arduino-esp32/tree/master/docs/arduino-ide).
