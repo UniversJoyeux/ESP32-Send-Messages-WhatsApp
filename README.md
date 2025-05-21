@@ -3,8 +3,8 @@ This example demonstrates how to send messages to WhatsApp using ESP32 along wit
 
 ## Steps for Getting the CallMeBot API KEY
 To send messages to your WhatsApp account with the ESP32, we’ll use a free API service called CallMeBot service.
-* [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
-* Instructions:
+### [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
+### Instructions:
 1. Add the phone number +34 684 73 40 44 into your Phone Contacts. (Name it it as you wish)
 2. Send this message "I allow callmebot to send me messages" to the new Contact created (using WhatsApp of course)
 3. Wait until you receive the message "API Activated for your phone number. Your APIKEY is 123123" from the bot.
@@ -78,14 +78,14 @@ void setup() {
   sendMessage("Hello from ESP32!");
 }
 ```
-* Enter your network credentials on the following variables by replacing the words between the quotes:
-  _const char* ssid = "REPLACE_WITH_YOUR_SSID";
-  const char* password = "REPLACE_WITH_YOUR_PASSWORD";
-* Enter your phone number and API key
-  String phoneNumber = "REPLACE_WITH_YOUR_PHONE_NUMBER";
-  String apiKey = "REPLACE_WITH_YOUR_API_KEY";
-* In this case, we’re sending the message Hello from ESP32!
-  // Send Message to WhatsAPP
+### Enter your network credentials on the following variables by replacing the words between the quotes:
+* const char* ssid = "REPLACE_WITH_YOUR_SSID";
+* const char* password = "REPLACE_WITH_YOUR_PASSWORD";
+### Enter your phone number and API key
+* String phoneNumber = "REPLACE_WITH_YOUR_PHONE_NUMBER";
+* String apiKey = "REPLACE_WITH_YOUR_API_KEY";
+### In this case, we’re sending the message Hello from ESP32!
+* // Send Message to WhatsAPP
   sendMessage("Hello from ESP32!");
 ## How to Use Example
 
