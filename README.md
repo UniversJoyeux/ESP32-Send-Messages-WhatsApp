@@ -1,7 +1,7 @@
 # ESP32-Send-Messages-WhatsApp
 This example demonstrates how to send messages to WhatsApp using ESP32 along with Arduino IDE. For this to work we should install WhatsApp and Arduino IDE, and acquire ESP32 microcontroller.
 
-## Steps for Getting the CallMeBot API KEY
+## 1. Steps for Getting the CallMeBot API KEY
 To send messages to your WhatsApp account with the ESP32, we’ll use a free API service called CallMeBot service.
 ### [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
 ### Instructions:
