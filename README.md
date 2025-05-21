@@ -5,7 +5,7 @@ This example demonstrates how to send messages to WhatsApp using ESP32 along wit
 To send messages to your WhatsApp account with the ESP32, we’ll use a free API service called CallMeBot service.
 
 * Go to Sketch > Include Library > Manage Libraries and search for URLEncode library by Masayuki Sugahara and install it as shown below.
-* Click this link [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) 
+* Click this link [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
 ### Instructions:
 1. Add the phone number **beginning with plus(+) sign** into your **Phone Contacts** and name it it as you wish.
 2. Send this message **"I allow callmebot to send me messages"** to the new Contact created using WhatsApp.
