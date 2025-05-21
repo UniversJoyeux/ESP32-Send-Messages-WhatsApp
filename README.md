@@ -84,7 +84,7 @@ void setup() {
 ### Enter your phone number and API key
 * String phoneNumber = "REPLACE_WITH_YOUR_PHONE_NUMBER";
 * String apiKey = "REPLACE_WITH_YOUR_API_KEY";
-### In this case, we’re sending the message Hello from ESP32!
+### Write the message your to send by replacing the one into the quotes. Ensure the quotes should contain your written message.
 * // Send Message to WhatsAPP
   sendMessage("Hello from ESP32!");
 ## How to Use Example
