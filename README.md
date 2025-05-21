@@ -105,19 +105,7 @@ void setup() {
 
 ## Example/Log Output
 
-```
-Setup done
-Scan start
-Scan done
-17 networks found
-Nr | SSID            | RSSI | CH | Encryption
- 1 | IoTNetwork      |  -62 |  1 | WPA2
- 2 | WiFiSSID        |  -62 |  1 | WPA2-EAP
- 3 | B3A7992         |  -63 |  6 | WPA+WPA2
- 4 | WiFi            |  -63 |  6 | WPA3
- 5 | IoTNetwork2     |  -64 | 11 | WPA2+WPA3
-...
-```
+![Example](Screenshot 2025-05-21 192022.png)
 
 ## Troubleshooting
 
