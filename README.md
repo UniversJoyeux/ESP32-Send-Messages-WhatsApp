@@ -5,11 +5,11 @@ This example demonstrates how to send messages to WhatsApp using ESP32 along wit
 To send messages to your WhatsApp account with the ESP32, we’ll use a free API service called CallMeBot service.
 ### [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
 ### Instructions:
-1. Add the phone number +34 684 73 40 44 into your Phone Contacts. (Name it it as you wish)
-2. Send this message "I allow callmebot to send me messages" to the new Contact created (using WhatsApp of course)
-3. Wait until you receive the message "API Activated for your phone number. Your APIKEY is 123123" from the bot.
+1. Add the phone number **beginning with plus(+) sign** into your **Phone Contacts** and name it it as you wish.
+2. Send this message **"I allow callmebot to send me messages"** to the new Contact created using WhatsApp.
+3. Wait until you receive the message ***"API Activated for your phone number. Your APIKEY is xxxxx"*** from the bot.
 Note: If you don't receive the ApiKey in 2 minutes, please try again after 24hs.
-4. The WhatsApp message from the bot will contain the apikey needed to send messages using the API.
+4. The WhatsApp message from the bot will contain the *APIKEY* needed to send messages using the API.
 ### Step 2: ESP32 Code (Copy and paste it into Arduino IDE)
 ```
   /* 
