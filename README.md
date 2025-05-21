@@ -79,13 +79,13 @@ void setup() {
 }
 ```
 ## Step 3: Information to make it works
-###  Enter your network credentials by replacing the words between the quotes:
+### 1. Enter your network credentials by replacing the words between the quotes:
 * const char* ssid = "REPLACE_WITH_YOUR_SSID";
 * const char* password = "REPLACE_WITH_YOUR_PASSWORD";
-###  Enter your phone number and API key
+### 2. Enter your phone number and API key
 * String phoneNumber = "REPLACE_WITH_YOUR_PHONE_NUMBER";
 * String apiKey = "REPLACE_WITH_YOUR_API_KEY";
-###  Write the message your to send by replacing the one into the quotes. Ensure the quotes should contain your written message.
+### 3. Write the message your to send by replacing the one into the quotes. Ensure the quotes should contain your written message.
 * // Send Message to WhatsAPP
   sendMessage("Hello from ESP32!");
 ## How to Use Example
