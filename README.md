@@ -138,8 +138,5 @@ Before creating a new issue, be sure to try the Troubleshooting and to check if 
 ## Resources
 
 * Arduino-ESP32 Official Repository: [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)
-* ESP32 Datasheet: [Link to datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
-* ESP32-S2 Datasheet: [Link to datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf)
-* ESP32-C3 Datasheet: [Link to datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)
-* ESP32-C6 Datasheet: [Link to datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf)
-* Official ESP-IDF documentation: [ESP-IDF](https://idf.espressif.com)
+* CallMeBot: [Free-API](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
+* RandomNerdtutorials: [ESP-WhatsApp-Message](https://randomnerdtutorials.com/esp32-send-messages-whatsapp/)
