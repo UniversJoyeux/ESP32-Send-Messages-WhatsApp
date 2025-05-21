@@ -79,7 +79,7 @@ void setup() {
 }
 ```
 * Enter your network credentials on the following variables by replacing the words between the quotes:
-  const char* ssid = "REPLACE_WITH_YOUR_SSID";
+  _const char* ssid = "REPLACE_WITH_YOUR_SSID";
   const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 * Enter your phone number and API key
   String phoneNumber = "REPLACE_WITH_YOUR_PHONE_NUMBER";
