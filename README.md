@@ -105,7 +105,7 @@ void setup() {
 
 ## Example/Log Output
 
-![Example](Screenshot 2025-05-21 192022.png)
+![Example](S_Wp.jpeg)
 
 ## Troubleshooting
 
