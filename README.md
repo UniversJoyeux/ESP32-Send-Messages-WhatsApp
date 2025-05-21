@@ -125,6 +125,7 @@ Nr | SSID            | RSSI | CH | Encryption
 
 * **Programming Fail:** If the programming/flash procedure fails, try to reduce the serial connection speed.
 * **COM port not detected:** Check the USB cable connection and the USB to Serial driver installation.
+* **HTTP response code: 203** Wrong credentials, phone number, and/or APIKEY entered.
 
 If the error persist, you can ask help at the official [ESP32 forum](https://esp32.com) or see [Contribute](#contribute).
 
