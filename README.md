@@ -79,7 +79,7 @@ void setup() {
 }
 ```
 ## 3. Information to make it works
-###  Enter your network credentials on the following variables by replacing the words between the quotes:
+###  Enter your network credentials by replacing the words between the quotes:
 * const char* ssid = "REPLACE_WITH_YOUR_SSID";
 * const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 ###  Enter your phone number and API key
