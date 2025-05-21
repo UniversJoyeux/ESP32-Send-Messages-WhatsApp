@@ -78,6 +78,15 @@ void setup() {
   sendMessage("Hello from ESP32!");
 }
 ```
+* Enter your network credentials on the following variables by replacing the words between the quotes:
+  const char* ssid = "REPLACE_WITH_YOUR_SSID";
+  const char* password = "REPLACE_WITH_YOUR_PASSWORD";
+* Enter your phone number and API key
+  String phoneNumber = "REPLACE_WITH_YOUR_PHONE_NUMBER";
+  String apiKey = "REPLACE_WITH_YOUR_API_KEY";
+* In this case, we’re sending the message Hello from ESP32!
+  // Send Message to WhatsAPP
+  sendMessage("Hello from ESP32!");
 ## How to Use Example
 
 * How to install the Arduino IDE: [Install Arduino IDE](https://github.com/espressif/arduino-esp32/tree/master/docs/arduino-ide).
