@@ -1,8 +1,8 @@
 # ESP32-Send-Messages-WhatsApp
-This example demonstrates how to send messages to WhatsApp using ESP32 along with Arduino IDE. For this to work we should install WhatsApp and Arduino IDE, and acquire ESP32 microcontroller.
+This example demonstrates how to send messages to WhatsApp using ESP32 along with Arduino IDE. For this to work we should install WhatsApp and Arduino IDE, and acquire ESP32 microcontroller. Launch Arduino and plug the ESP32Cam with the appropriate USB cable.
 
 ## Step 1: Getting the CallMeBot API KEY
-To send messages to your WhatsApp account with the ESP32 along with Arduino, we’ll use a free API service called CallMeBot service.
+To send messages to your WhatsApp account with the ESP32 along with Arduino, we’ll use a free API service called CallMeBot service. When on Arduino,
 * First, go to Select Other Board and Port > AI Thinker ESP32-CAM > COM? Serial Port (USB) > Ok to select the ESP32Cam (? could be any number)
 * Then go to Sketch > Include Library > Manage Libraries and search for **URLEncode** library by Masayuki Sugahara and install it.
 * After that, click this link [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) and follow the instructions under **"Step:"** as show below:
