@@ -91,10 +91,6 @@ void setup() {
 ### 3. Write the message your to send by replacing the one into the quotes. Ensure the quotes should contain your written message.
 * // Send Message to WhatsAPP
   sendMessage("Hello from ESP32!");
-## How to Use Example
-![example]()
-* How to install the Arduino IDE: [Install Arduino IDE](https://github.com/espressif/arduino-esp32/tree/master/docs/arduino-ide).
-* 
 
 
 
