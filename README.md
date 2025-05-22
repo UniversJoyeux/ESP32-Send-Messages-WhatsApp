@@ -11,7 +11,8 @@ To send messages to your WhatsApp account with the ESP32 along with Arduino, weâ
 3. Wait until you receive the message **"API Activated for your phone number. Your APIKEY is xxxxx"** from the bot.
 Note: If you don't receive the ApiKey in 2 minutes, please try again after 24hs.
 4. The WhatsApp message from the bot will contain the _**APIKEY**_ needed to send messages using the API.
-5. ![Example](S_Wp.jpeg)
+5. Example
+ ![Example](S_Wp.jpeg)
 ### Step 2: ESP32 Code (Copy and paste on Arduino IDE)
 ```
   /* 
