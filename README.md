@@ -105,11 +105,9 @@ void setup() {
 
 * Select the COM port: `Devices` or setting the `upload_port` option on the `platformio.ini` file.
 
-## Example/Log Output
+# Demonstration
 
 ![Example](S_Wp.jpeg)
-
-# Demonstration
 
 ## Troubleshooting
 
