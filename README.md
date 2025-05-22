@@ -98,10 +98,10 @@ After inserting your network credentials, phone number and API key, you can uplo
 
 After uploading, open the Serial Monitor at a baud rate of 115200 and press the board RST button. It should successfully connect to your network and send the message to WhatsApp.
 
-![Example](S_Wp.jpeg)
-![Example](S_Wp.jpeg)
-![Example](S_Wp.jpeg)
-![Example](S_Wp.jpeg)
+![Example](Test4.jpg)
+![Example](Test5.jpg)
+![Example](Test6.jpg)
+![Example](Test7.jpg)
 
 ## Troubleshooting
 
