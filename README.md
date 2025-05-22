@@ -93,7 +93,6 @@ void setup() {
   sendMessage("Hello from ESP32!");
 
 
-
 # Demonstration
 After inserting your network credentials, phone number and API key, you can upload the code to your board.
 
@@ -103,16 +102,10 @@ After uploading, open the Serial Monitor at a baud rate of 115200 and press the 
 
 ## Troubleshooting
 
-***Important: Be sure you're using a good quality USB cable and you have enough power source for your project.***
-
-* **P
 * **COM port not detected:** Check the USB cable connection and the USB to Serial driver installation.
 * **HTTP response code: 203** Wrong credentials, phone number, and/or APIKEY entered.
 
-If the error persist, you can ask help at the official [ESP32 forum](https://esp32.com) or see [Contribute](#contribute).
-
 ## Resources
 
-* Arduino-ESP32 Official Repository: [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)
 * CallMeBot: [Free-API](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
 * RandomNerdtutorials: [ESP-WhatsApp-Message](https://randomnerdtutorials.com/esp32-send-messages-whatsapp/)
