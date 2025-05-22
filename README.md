@@ -111,7 +111,7 @@ void setup() {
 
 ***Important: Be sure you're using a good quality USB cable and you have enough power source for your project.***
 
-* **Programming Fail:** If the programming/flash procedure fails, try to reduce the serial connection speed.
+* **P
 * **COM port not detected:** Check the USB cable connection and the USB to Serial driver installation.
 * **HTTP response code: 203** Wrong credentials, phone number, and/or APIKEY entered.
 
