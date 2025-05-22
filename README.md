@@ -107,6 +107,8 @@ void setup() {
 
 ![Example](S_Wp.jpeg)
 
+# Demonstration
+
 ## Troubleshooting
 
 ***Important: Be sure you're using a good quality USB cable and you have enough power source for your project.***
